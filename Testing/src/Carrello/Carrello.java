@@ -14,6 +14,7 @@ public class Carrello {
 	}
 	public void InsertOneProduct() {
 		amount++;
+		//aggiungolineadicommento
 	}
 	public void removeOneProduct() {
 		amount--;
