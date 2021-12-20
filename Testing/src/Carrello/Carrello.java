@@ -15,6 +15,7 @@ public class Carrello {
 	public void InsertOneProduct() {
 		amount++;
 		//aggiungolineadicommento
+		System.out.println("modifica da remoto")
 	}
 	public void removeOneProduct() {
 		amount--;
